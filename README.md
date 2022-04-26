@@ -15,12 +15,11 @@ The spawning of trains as well as the "next stop" text came directly from https:
 
 The ticketing system was partially inspired by and based on:
 
-	Blumlaut (FiveM Community) / Bluethefurry (Github)
-	Original Script: https://github.com/Bluethefurry/FiveM-Trains/releases
-	Reworked by VenomXNL: https://forum.cfx.re/t/release-fivem-freight-train-ai-and-enterable-trams-as-passenger-suited-for-roleplay-to/
-	(Re-) Reworked by: Nickoos
+Blumlaut (FiveM Community) / Bluethefurry (Github) Original Script: https://github.com/Bluethefurry/FiveM-Trains/releases
+Reworked by VenomXNL: https://forum.cfx.re/t/release-fivem-freight-train-ai-and-enterable-trams-as-passenger-suited-for-roleplay-to/
+(Re-) Reworked by: Nickoos
 
-	and then re-re reworked by BigDaddy
+and then re-re reworked by BigDaddy - I just used a tiny bit of code from the FiveM-Trains mostly for ticketing. The fivem-trams is used almost in it's entirety because it just works well. But I did add the ticketing portion to it.
 
 
 # Release History

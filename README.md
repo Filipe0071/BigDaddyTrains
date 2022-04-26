@@ -11,7 +11,7 @@ Not all the ticket machines work. The red and black ones above ground generally 
 
 This do not currently work:
 ![image](https://cdn.discordapp.com/attachments/927598976742592574/968495896289484810/20220426084847_1_cr.jpg)
-![image](https://cdn.discordapp.com/attachments/927598976742592574/968496134152654918/20220426085007_1_cr.jpg)
+![image](https://cdn.discordapp.com/attachments/927598976742592574/968495896557916170/20220426084936_1_cr.jpg)
 
 
 These DO work:

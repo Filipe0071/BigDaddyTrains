@@ -27,7 +27,7 @@ Blumlaut (FiveM Community) / Bluethefurry (Github) Original Script: https://gith
 Reworked by VenomXNL: https://forum.cfx.re/t/release-fivem-freight-train-ai-and-enterable-trams-as-passenger-suited-for-roleplay-to/
 (Re-) Reworked by: Nickoos
 
-and then re-re reworked by BigDaddy - I just used a tiny bit of code from the FiveM-Trains mostly for ticketing. The fivem-trams is used almost in it's entirety because it just works well. But I did add the ticketing portion to it.
+and then re-re reworked by BigDaddy - I just used code from the FiveM-Trains mostly for ticketing. The fivem-trams is used almost in it's entirety because it just works well. But I did add the ticketing portion to it.
 
 
 # Release History

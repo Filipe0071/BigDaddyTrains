@@ -9,6 +9,14 @@ This DOES work with OneSync on FiveM multiplayer servers.
 
 Not all the ticket machines work. The red and black ones above ground generally work. Once you "buy" a ticket, it is good for one ride on the metro. As soon as you get off the train, you have to buy a new ticket to ride again. The purchase will have to be tied into your server's money system. There are comments in the code to show you where that would go.
 
+This do not currently work:
+![image](https://cdn.discordapp.com/attachments/927598976742592574/968495896289484810/20220426084847_1_cr.jpg)
+![image](https://cdn.discordapp.com/attachments/927598976742592574/968496134152654918/20220426085007_1_cr.jpg)
+
+
+These DO work:
+![image](https://cdn.discordapp.com/attachments/927598976742592574/968496134152654918/20220426085007_1_cr.jpg)
+
 # Credits
 
 The spawning of trains as well as the "next stop" text came directly from https://github.com/TheIndra55/fivem-trams
